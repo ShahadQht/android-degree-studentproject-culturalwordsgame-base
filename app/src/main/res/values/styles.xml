@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <array name="Languages">
+        <item>العربية</item>
+        <item>English</item>
+    </array>
 </resources>
